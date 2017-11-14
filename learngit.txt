@@ -1,3 +1,21 @@
 Git是一个版本管理系统
 Git是免费的
 练习git命令是愉快的
+git log
+commit d0ccb5c856bcea370c011d0ffa470cc07c48f596 (HEAD -> master)
+Author: NEO Huang <huanggx@163.com>
+Date:   Wed Nov 15 07:33:48 2017 +0800
+
+    第一次修订
+
+commit 9f657d719817d3491fac6fff451f7ae2e498cef8
+Author: NEO Huang <huanggx@163.com>
+Date:   Wed Nov 15 07:29:38 2017 +0800
+
+    提交了两个新文件
+
+commit ce24e5007036d594aee6e5cfc17e4e04e1ec8252
+Author: NEO Huang <huanggx@163.com>
+Date:   Wed Nov 15 07:24:48 2017 +0800
+
+    first commit
